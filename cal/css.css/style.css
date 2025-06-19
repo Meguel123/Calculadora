@@ -1,0 +1,14 @@
+body{
+    background-repeat: no-repeat;
+    background-image: url("https://marketplace.canva.com/EAFzIrT_NdY/1/0/1600w/canva-colorful-minimalist-space-desktop-wallpaper-a3B7oPWJLWo.jpg");
+    background-size: cover;
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
+
+label{
+    color: aliceblue;
+
+}
